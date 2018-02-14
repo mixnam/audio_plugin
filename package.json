@@ -1,0 +1,8 @@
+{
+  "name": "audio_record",
+  "version": "0.0.1",
+  "description": "audio_record app with socket.io",
+  "dependencies": {
+    "express": "^4.15.2"
+  }
+}
