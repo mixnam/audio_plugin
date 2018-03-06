@@ -3,6 +3,14 @@
   "version": "0.0.1",
   "description": "audio_record app with socket.io",
   "dependencies": {
-    "express": "^4.15.2"
+    "dotenv": "^5.0.0",
+    "express": "^4.15.2",
+    "js-to-js": "^1.4.1",
+    "mongodb": "^3.0.2",
+    "mongoose": "^5.0.6",
+    "mysql": "^2.15.0",
+    "orm": "^4.0.2",
+    "recordrtc": "^5.4.6",
+    "socket.io": "^2.0.4"
   }
 }
